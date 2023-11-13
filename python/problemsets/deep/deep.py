@@ -1,3 +1,4 @@
+#https://cs50.harvard.edu/python/2022/psets/1/deep/
 # Solution 1
 ans = input("What is the Answer to the Great Question of Life, the Universe, and Everything? ").strip()
 if ans == "42" or ans.lower() == "forty-two" or ans.lower() == "forty two":

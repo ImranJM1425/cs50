@@ -1,3 +1,4 @@
+#https://cs50.harvard.edu/python/2022/psets/1/extensions/
 # # Solution 1. Simple if/elif/else using endswith function.
 # file = input("File name: ").strip().lower()
 
