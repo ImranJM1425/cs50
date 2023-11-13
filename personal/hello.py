@@ -1,3 +1,6 @@
+"""
+Functions/variable
+"""
 # # Ask user for name
 # name = input("what's your name? ").strip().title()
 
